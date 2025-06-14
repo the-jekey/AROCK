@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@font-face {
+       font-family: a4;
+       src: url(./assets/Fonts/a4.woff2);
+}
+
+@font-face {
+       font-family: u4;
+       src: url(./assets/Fonts/u4.woff2);
+}
+
+@font-face {
+       font-family: u7;
+       src: url(./assets/Fonts/u7.woff2);
+}
+
+@font-face {
+       font-family: u8;
+       src: url(./assets/Fonts/u8.woff2);
+
+}
+
+
+
+span {
+       display: inline-block;
+}
+
+* {
+       margin: 0;
+       padding: 0;
+       font-family: serif;
+       box-sizing: border-box;
+}
+
+html,
+body {
+       width: 100%;
+       height: 100%;
+       color: white;
+}
+.h11{
+       font-family: u8;
+}
+.name{
+       font-family: a4;
+}
