@@ -2,7 +2,7 @@ import React from 'react'
 
 const Headingtxt = () => {
   return (
-    <div className='w-full flex justify-between  text-start items-center'>
+    <div className='w-full flex justify-between  text-start text-[10px] lg:text-sm items-center'>
       <div className="">
         <h3>play <br />
           the film </h3>
